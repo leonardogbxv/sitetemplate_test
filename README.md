@@ -1,2 +1,2 @@
-# template_test
-Website built solely with HTML and CSS.
+# template test
+Website built solely with HTML and CSS .
